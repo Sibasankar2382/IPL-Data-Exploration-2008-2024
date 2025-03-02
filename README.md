@@ -5,4 +5,8 @@
 
 ## 📌 Project Overview
 This project analyzes IPL matches using Power BI, focusing on key cricketing metrics such as run rates, batting partnerships, bowling economy rates, win percentage, and dismissal types. The dataset includes ball-by-ball match details and match-level summaries.
+## Technologies Used
+* Python(For Data Manipulation)
+* MySql(For Connection)
+* PowerBI(For Data Vizualization)
 
