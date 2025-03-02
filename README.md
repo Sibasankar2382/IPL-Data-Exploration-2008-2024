@@ -10,3 +10,8 @@ This project analyzes IPL matches using Power BI, focusing on key cricketing met
 * MySql(For Connection)
 * PowerBI(For Data Vizualization)
 
+ ## 📂 Dataset Information
+* ball_by_ball.csv - Contains ball-level data, including batters, bowlers, runs scored, and dismissals.
+* Match_details.csv - Contains match-level details, including season, teams, winner, and venue.
+
+## Power-BI Dashboard (Power BI)
