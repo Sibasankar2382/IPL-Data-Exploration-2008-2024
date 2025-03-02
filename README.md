@@ -15,4 +15,5 @@ This project analyzes IPL matches using Power BI, focusing on key cricketing met
 * Match_details.csv - Contains match-level details, including season, teams, winner, and venue.
 
 ## Power-BI Dashboard (Power BI)
-<img width="609" alt="Image" src="https://github.com/user-attachments/assets/6168c134-633e-4ead-be64-fb7b80f869d9" />
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/6168c134-633e-4ead-be64-fb7b80f869d9" />
+
