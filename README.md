@@ -20,10 +20,10 @@ We’ve created an interactive dashboard using Power BI. Here’s a screenshot: 
 ##  Conclusion
 This IPL Power BI Analysis Project provides valuable insights into team and player performances using interactive dashboards. By leveraging DAX calculations and visualizations, we successfully analyzed key metrics such as:
 
-✅ Team Performance Trends – Matches played, wins, and win percentage.
-✅ Batting Insights – Top scorers, partnerships, and run rates per over.
-✅ Bowling Performance – Economy rates, wickets by dismissal type, and death-over specialists.
-✅ Match Analysis – Toss impact, run trends, and head-to-head statistics.
+* ✅ Team Performance Trends – Matches played, wins, and win percentage.
+* ✅ Batting Insights – Top scorers, partnerships, and run rates per over.
+* ✅ Bowling Performance – Economy rates, wickets by dismissal type, and death-over specialists.
+* ✅ Match Analysis – Toss impact, run trends, and head-to-head statistics.
 
 Through dynamic filtering (season, team, player), this project enhances decision-making and strategic planning for cricket analysts, fans, and team management. Future enhancements may include predictive analytics for performance forecasting and AI-based player impact analysis.
 
