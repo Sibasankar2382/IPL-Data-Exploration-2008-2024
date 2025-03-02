@@ -4,7 +4,7 @@
 </p>
 
 ## 📌 Project Overview
-This project analyzes IPL matches using Power BI, focusing on key cricketing metrics such as run rates, batting partnerships, bowling economy rates, win percentage, and dismissal types. The dataset includes ball-by-ball match details and match-level summaries.
+This project aims to analyze IPL matches using Power BI & SQL, combining ball-by-ball match details with match-level summaries to extract insights into team performance, player statistics, and match predictions. The analysis includes SQL-based exploratory queries and predictive modeling.
 ## Technologies Used
 * Python(For Data Manipulation)
 * MySql(For Connection)
@@ -13,13 +13,23 @@ This project analyzes IPL matches using Power BI, focusing on key cricketing met
  ## 📂 Dataset Information
 * ball_by_ball.csv - Contains ball-level data, including batters, bowlers, runs scored, and dismissals.
 * Match_details.csv - Contains match-level details, including season, teams, winner, and venue.
+## 🛠️ Data Processing
+🔹 Merging Match Context with Deliveries
+Unified ball_by_ball data with match_details using match_id.
+Standardized team names across seasons.
+Handled missing or erroneous entries in datasets.
 
 ## Power-BI Dashboard (Power BI)
 We’ve created an interactive dashboard using Power BI. Here’s a screenshot: !Power BI Dashboard Analysis: We’ll discuss key insights and visualizations from the dashboard.
 <img width="1200" alt="Image" src="https://github.com/user-attachments/assets/6168c134-633e-4ead-be64-fb7b80f869d9" />
+## Model Evaluation Metrics
+
+* Accuracy: Measures how often the model predicts correctly.
+* Confusion Matrix: Shows True Positives, False Positives, etc.
+* ROC-AUC Score: Evaluates model performance in classification.
+  
 ##  Conclusion
 This IPL Power BI Analysis Project provides valuable insights into team and player performances using interactive dashboards. By leveraging DAX calculations and visualizations, we successfully analyzed key metrics such as:
-
 * ✅ Team Performance Trends – Matches played, wins, and win percentage.
 * ✅ Batting Insights – Top scorers, partnerships, and run rates per over.
 * ✅ Bowling Performance – Economy rates, wickets by dismissal type, and death-over specialists.
