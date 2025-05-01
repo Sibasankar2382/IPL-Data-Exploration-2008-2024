@@ -22,7 +22,9 @@ Handled missing or erroneous entries in datasets.
 ## Power-BI Dashboard (Power BI)
 We’ve created an interactive dashboard using Power BI. Here’s a screenshot: !Power BI Dashboard Analysis: We’ll discuss key insights and visualizations from the dashboard.
 
-## Mode<img width="750" alt="ipl Project" src="https://github.com/user-attachments/assets/05348934-c1fc-4185-b426-e3fa12cf54eb" />
+<img width="750" alt="ipl Project" src="https://github.com/user-attachments/assets/05348934-c1fc-4185-b426-e3fa12cf54eb" />
+
+
 l Evaluation Metrics
 
 * Accuracy: Measures how often the model predicts correctly.
